@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             Atom.with(MainActivity.this)
-                    .load("https://script.google.com/macros/s/AKfycbwdtTA859qTlClPc4kwRtmg0UrWcreftw_UtHLkJvm0ljpipaQS/exec")
+                    .load("ganti url nya ")
                     .setMultipart("nama", name)
                     .setMultipart("email", email)
                     .setMultipart("jenis_kelamin", kelamin)
